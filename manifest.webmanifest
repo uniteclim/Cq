@@ -1,0 +1,13 @@
+{
+  "name": "نظام التحكم في الجودة والإنتاج",
+  "short_name": "الجودة والإنتاج",
+  "description": "نظام التحكم في الجودة والإنتاج — v4.6",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
+  "icons": []
+}
